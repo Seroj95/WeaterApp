@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weater App</string>
+    <string name="show_weater">Pogod</string>
+    <string name="input_city">Videinite nazivane gorog ili index</string>
+</resources>
